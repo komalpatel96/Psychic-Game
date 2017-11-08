@@ -1,7 +1,19 @@
 body{
 	text-align: center;
 	font-size: 20px;
-	font-family: Helvetica;
+	font-family: 'Carter One', cursive;
+
+
+}
+
+#imageDiv{
+	background-image: url("../images/psych_.jpg");
+	height: 500px;
+	background-position: center; 
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: 0.5
+
 }
 
 h1{
